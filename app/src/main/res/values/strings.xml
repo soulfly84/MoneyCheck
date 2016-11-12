@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">MoneyTracker</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_buy">Расходы</string>
+    <string name="menu_category">Категории</string>
+    <string name="menu_statistics">Статистика</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_quit">Выход</string>
+
+    <string name="nav_header_mail">vodovozzz@inbox.ru</string>
+    <string name="nav_header_user_name">Timur Vodovozov</string>
+
+    <string name="expenses_fragment">Hello Fragments</string>
+
+    <string name="add_expenses_activity">Hello!</string>
+
+    <string name="expenses_button_cancel">Отмена</string>
+    <string name="expenses_button_add">Добавить</string>
+
+    <string name="expenses_editText_description">Наименование покупки</string>
+    <string name="expenses_editText_prise">Введите стоимость</string>
+    <string name="expenses_editText_date">Введите дату</string>
+    <string name="expenses_toast_add">Покупка добавлена</string>
+    <string name="expenses_select_categories">Выберите категорию</string>
+    <string name="expenses_warning">Заполните все поля</string>
+
+    <string name="category_snackbar_massage">Это snackbar</string>
+
+    <string name="search_title">Поиск</string>
+
+    <string name="registration_title">Регистрация</string>
+    <string name="registration_btn_registration">Регистрация</string>
+    <string name="registration_btn_canсel">Отмена</string>
+    <string name="registration_text_enter_login">Введите логин</string>
+    <string name="registration_text_enter_password">Введите пароль</string>
+    <string name="registration_text_error_login">Поле Login пустое</string>
+    <string name="registration_text_error_password">Поле Пароль пустое</string>
+    <string name="registration_text_error">Поля менее 5 символов</string>
+    <string name="registration_internet_error">Нет интернет соединения</string>
+    <string name="registration_server_status_busy_login_error">Login занят, введите другой login</string>
+    <string name="registration_server_other_error">Произошла неизвестная ошибка</string>
+
+    <string name="auth_title">Аутентификация</string>
+    <string name="auth_btn_registration_ok">OK</string>
+    <string name="auth_btn_new_registration">Регистрация нового пользователя</string>
+    <string name="auth_server_status_wrong_login_error">Не правильно введен login</string>
+    <string name="auth_server_status_wrong_password_error">Не правильно введен пароль</string>
+    <string name="auth_server_status_error">Произошла ошибка сервера</string>
+
+
+    <string-array name="categories">
+        <item>Выберите категорию</item>
+        <item>Развлечения</item>
+        <item>Продукты</item>
+        <item>Кафе</item>
+        <item>Образование</item>
+        <item>Лекарства</item>
+    </string-array>
+</resources>
